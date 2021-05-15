@@ -1,2 +1,2 @@
 # Chamexe
-<img align="center" width="500px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/source.movg" />
+<movg align="center" width="500px" src="https://media.giphy.com/media/jTNG3RF6EwbkpD4LZx/source.movg" />
